@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VisualLightBox>
+    <Gallery version="2.5">
+        <Settings>
+            <AppName>WOW Slider</AppName>
+            <AppUrlS>WOWSlider.com</AppUrlS>
+            <AppVersion>8.7</AppVersion>
+            <AutoPlay>true</AutoPlay>
+            <AutoPlayVideo>false</AutoPlayVideo>
+            <Captions>true</Captions>
+            <CaptionsEffect>parallax</CaptionsEffect>
+            <Controls>true</Controls>
+            <FontSize>25</FontSize>
+            <FullScreen>false</FullScreen>
+            <GalleryName>visor-app2</GalleryName>
+            <GallerySuffix>1</GallerySuffix>
+            <HtmlCharset>UTF-8</HtmlCharset>
+            <ImageAspectRatio>true</ImageAspectRatio>
+            <ImageEffect>cube</ImageEffect>
+            <ImageFillColor>#000000</ImageFillColor>
+            <ImageHeight>360</ImageHeight>
+            <ImageQuality>90</ImageQuality>
+            <ImageShrink2>false</ImageShrink2>
+            <ImageStretch>true</ImageStretch>
+            <ImageTemplate>C:/Program Files (x86)/WOW Slider/templates/backgnd/puzzle/</ImageTemplate>
+            <ImageTemplateName>Puzzle</ImageTemplateName>
+            <ImageWidth>640</ImageWidth>
+            <Images>true</Images>
+            <JoomlaType>2.5</JoomlaType>
+            <OneLoop>false</OneLoop>
+            <OrderRandom>false</OrderRandom>
+            <PlayPause>true</PlayPause>
+            <Preloader>false</Preloader>
+            <PublishFileName>C:/Users/-_-/Documents/app2/wowslider.html</PublishFileName>
+            <PublishIndex>wowslider.html</PublishIndex>
+            <PublishPath>C:/Users/-_-/Documents/app2</PublishPath>
+            <PublishPreview>true</PublishPreview>
+            <PublishType>file</PublishType>
+            <RelativePath>false</RelativePath>
+            <ShowBullets>1</ShowBullets>
+            <ShowControls>false</ShowControls>
+            <ShowTooltips>1</ShowTooltips>
+            <SizeStyle>1</SizeStyle>
+            <SlideshowDelay>20</SlideshowDelay>
+            <SlideshowDuration>20</SlideshowDuration>
+            <SoundEnable>0</SoundEnable>
+            <SoundFileName></SoundFileName>
+            <StopOnHover>false</StopOnHover>
+            <SwipeSupport>2</SwipeSupport>
+            <TemplateColor>#09a4cb</TemplateColor>
+            <TemplateFont>Didact Gothic</TemplateFont>
+            <TemplateName>puzzle</TemplateName>
+            <ThumbAlign>bottom</ThumbAlign>
+            <ThumbFormat>jpg</ThumbFormat>
+            <ThumbHeight>48</ThumbHeight>
+            <ThumbQuality>90</ThumbQuality>
+            <ThumbWidth>0</ThumbWidth>
+            <Thumbnails>false</Thumbnails>
+            <TooltipPos>bottom</TooltipPos>
+            <noFrame>0</noFrame>
+        </Settings>
+        <Images RelativePath="false">
+            <Image>
+                <url>C:/Users/-_-/Desktop/app2 fani/imagenes/at&amp;t.png</url>
+                <title>at&amp;t</title>
+                <filesize>32734</filesize>
+            </Image>
+            <Image>
+                <url>C:/Users/-_-/Desktop/app2 fani/imagenes/celular1.jpg</url>
+                <title>celular1</title>
+                <filesize>252562</filesize>
+            </Image>
+            <Image>
+                <url>C:/Users/-_-/Desktop/app2 fani/imagenes/celular2.jpg</url>
+                <title>celular2</title>
+                <filesize>114692</filesize>
+            </Image>
+            <Image>
+                <url>C:/Users/-_-/Desktop/app2 fani/imagenes/celular3.png</url>
+                <title>celular3</title>
+                <filesize>19593</filesize>
+            </Image>
+            <Image>
+                <url>C:/Users/-_-/Desktop/app2 fani/imagenes/celular4.jpg</url>
+                <title>celular4</title>
+                <filesize>165612</filesize>
+            </Image>
+            <Image>
+                <url>C:/Users/-_-/Desktop/app2 fani/imagenes/celular5.jpg</url>
+                <title>celular5</title>
+                <filesize>279077</filesize>
+            </Image>
+            <Image>
+                <url>C:/Users/-_-/Desktop/app2 fani/imagenes/celular6.jpg</url>
+                <title>celular6</title>
+                <filesize>5022</filesize>
+            </Image>
+            <Image>
+                <url>C:/Users/-_-/Desktop/app2 fani/imagenes/celular7.jpg</url>
+                <title>celular7</title>
+                <filesize>29083</filesize>
+            </Image>
+            <Image>
+                <url>C:/Users/-_-/Desktop/app2 fani/imagenes/celular8.jpg</url>
+                <title>celular8</title>
+                <filesize>8195</filesize>
+            </Image>
+            <Image>
+                <url>C:/Users/-_-/Desktop/app2 fani/imagenes/CELULAR9.jpg</url>
+                <title>CELULAR9</title>
+                <filesize>175251</filesize>
+            </Image>
+        </Images>
+    </Gallery>
+</VisualLightBox>
